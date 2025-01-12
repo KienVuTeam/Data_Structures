@@ -1,0 +1,68 @@
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+logs/
+
+# Visual Studio working files
+.vs/
+.vscode/
+
+# Configuration files
+appsettings.Development.json
+
+# Rider IDE
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln*
+*.suo
+*.userprefs
+
+# Auto-generated files
+Generated/
+*.Generated.cs
+
+# DotNet specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Transient dependency folders
+node_modules/
+bower_components/
+
+# DotNet global tools
+.dotnet_tools/
+.dotnet_tool/
+dotnet-tools.json
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
