@@ -2,7 +2,8 @@
 - Những cấuấu trúc dữ liệu nào tôi biết và làm việc sex được liệt kê ở đây!
 
 ## Cấu trúc:
-```**Data_Structure/**
+```
+Data_Structure/
 |-- folder/ # Array, LinkedList,...
 |   |-- class
 |   |-- README.md 
